@@ -72,8 +72,10 @@ Outputs confidence scores and interpretable visualizations
 Generates metrics: Accuracy, Sensitivity, Specificity, AUC
 
 Produces lesion localization maps and graphs comparing actual vs predicted outcomes
-<img width="864" height="531" alt="image" src="https://github.com/user-attachments/assets/9ba02233-2c50-4079-9b60-1281f6408b91" />
-<img width="1255" height="682" alt="Screenshot 2025-12-01 145013" src="https://github.com/user-attachments/assets/0f9bb59c-4296-46cb-96de-ccc6321f7590" />
+<img width="864" height="531" alt="Screenshot 2025-12-01 170748" src="https://github.com/user-attachments/assets/cb9c67a8-2f24-43cd-b501-55bc08a708de" />
+
+<img width="1255" height="682" alt="Screenshot 2025-12-01 145013" src="https://github.com/user-attachments/assets/26fe7999-cfe7-44aa-b1da-4a098588a313" />
+
 ## OUTPUT:
 
 
