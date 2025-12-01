@@ -77,8 +77,16 @@ Produces lesion localization maps and graphs comparing actual vs predicted outco
 <img width="1255" height="682" alt="Screenshot 2025-12-01 145013" src="https://github.com/user-attachments/assets/26fe7999-cfe7-44aa-b1da-4a098588a313" />
 
 ## OUTPUT:
+<img width="1345" height="251" alt="image" src="https://github.com/user-attachments/assets/097434cb-9acf-4b6c-9e03-568af876d043" />
+<img width="915" height="519" alt="image" src="https://github.com/user-attachments/assets/8a52978f-c800-4ca6-8440-37acdfc589c8" />
 
+<img width="782" height="550" alt="image" src="https://github.com/user-attachments/assets/0f7bdef7-098c-47fa-b08b-5b5f8736e40b" />
+<img width="700" height="339" alt="image" src="https://github.com/user-attachments/assets/a20703e3-602e-466e-a035-d316ec8f543b" />
+<img width="777" height="653" alt="image" src="https://github.com/user-attachments/assets/c113156d-6cfc-4660-8fdd-9a17bea5830d" />
+<img width="786" height="646" alt="image" src="https://github.com/user-attachments/assets/7f2f67b1-2f6b-4ab1-9647-9d68a0eb46f2" />
 
+<img width="853" height="173" alt="image" src="https://github.com/user-attachments/assets/bf08dd0c-a7a0-448a-beb7-4f5a05e56516" />
+<img width="733" height="711" alt="image" src="https://github.com/user-attachments/assets/e1d9c680-4b22-4f15-bf6f-e82a7907460c" />
 
 
 
